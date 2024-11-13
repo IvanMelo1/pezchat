@@ -1,0 +1,10 @@
+pandas
+streamlit
+ollama
+python-dotenv
+plotly
+mesop
+gradio
+pinecone-client
+sentence-transformers
+torch
